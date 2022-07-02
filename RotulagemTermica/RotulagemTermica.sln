@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotulagemTermica", "RotulagemTermica\RotulagemTermica.csproj", "{01235A7A-A322-44FD-9B99-0F0A6EFE9F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adm", "Adm\Adm.csproj", "{544B750F-2D7C-4872-98F0-D0A113B967AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imp", "Imp\Imp.csproj", "{CDD24F6B-13CF-422F-9744-4FB18167314F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01235A7A-A322-44FD-9B99-0F0A6EFE9F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01235A7A-A322-44FD-9B99-0F0A6EFE9F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01235A7A-A322-44FD-9B99-0F0A6EFE9F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01235A7A-A322-44FD-9B99-0F0A6EFE9F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544B750F-2D7C-4872-98F0-D0A113B967AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544B750F-2D7C-4872-98F0-D0A113B967AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544B750F-2D7C-4872-98F0-D0A113B967AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544B750F-2D7C-4872-98F0-D0A113B967AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD24F6B-13CF-422F-9744-4FB18167314F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD24F6B-13CF-422F-9744-4FB18167314F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD24F6B-13CF-422F-9744-4FB18167314F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD24F6B-13CF-422F-9744-4FB18167314F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CCA35F7-E84E-4F1A-8421-F128FAE63343}
+	EndGlobalSection
+EndGlobal

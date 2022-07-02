@@ -1,0 +1,5 @@
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Release\Adm.csprojAssemblyReference.cache
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Release\Adm.MDIParent1.resources
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Release\Adm.Properties.Resources.resources
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Release\Adm.csproj.GenerateResource.cache
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Release\Adm.csproj.CoreCompileInputs.cache

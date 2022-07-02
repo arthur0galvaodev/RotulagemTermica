@@ -1,0 +1,165 @@
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.csprojAssemblyReference.cache
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.MDIParent1.resources
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.Properties.Resources.resources
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.csproj.GenerateResource.cache
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.csproj.CoreCompileInputs.cache
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Adm.exe.config
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Adm.exe
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Adm.pdb
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Rotulo.exe
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\MySql.Data.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Google.Protobuf.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Zstandard.Net.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\BouncyCastle.Crypto.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Ubiety.Dns.Core.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\System.Memory.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\System.Buffers.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\K4os.Compression.LZ4.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\K4os.Hash.xxHash.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Rotulo.pdb
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Rotulo.exe.config
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\MySql.Data.xml
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.exe.config
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.csproj.CopyComplete
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.exe
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.pdb
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Adm.exe.manifest
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Adm.application
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.exe.manifest
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\obj\Debug\Adm.application
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Imp.exe
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Imp.pdb
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\Imp.exe.config
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Adm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.csprojAssemblyReference.cache
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.MDIParent1.resources
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.Properties.Resources.resources
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.csproj.GenerateResource.cache
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.csproj.CoreCompileInputs.cache
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.exe
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.pdb
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Adm.exe.config
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Adm.exe.manifest
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Adm.application
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Adm.exe
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Adm.pdb
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Imp.exe
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\RotulagemTermica.exe
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\MySql.Data.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Google.Protobuf.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ZstdNet.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\BouncyCastle.Crypto.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Ubiety.Dns.Core.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\System.Memory.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\System.Buffers.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\K4os.Compression.LZ4.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\K4os.Hash.xxHash.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\System.Numerics.Vectors.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Imp.pdb
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Imp.exe.config
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\RotulagemTermica.pdb
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\RotulagemTermica.exe.config
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\MySql.Data.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Google.Protobuf.pdb
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\Google.Protobuf.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\System.Memory.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\System.Buffers.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\K4os.Compression.LZ4.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\K4os.Hash.xxHash.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\System.Numerics.Vectors.xml
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.exe.manifest
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.application
+C:\git\Rotulagem\RotulagemTermica\Adm\obj\Debug\Adm.csproj.CopyComplete

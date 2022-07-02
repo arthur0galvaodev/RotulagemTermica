@@ -1,0 +1,7 @@
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Imp\obj\Release\Imp.csprojAssemblyReference.cache
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Imp\obj\Release\Imp.Imp.resources
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Imp\obj\Release\Imp.Properties.Resources.resources
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Imp\obj\Release\Imp.csproj.GenerateResource.cache
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Imp\obj\Release\RdlCompile.cache
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Imp\obj\Release\RdlCompile.compiled
+G:\Meu Drive\bkp\Nova pasta (2)\Nova pasta (2)\source\repos\Imp\obj\Release\Imp.csproj.CoreCompileInputs.cache
